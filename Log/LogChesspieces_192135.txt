@@ -1,0 +1,9 @@
+Round, Active Player, Color, Chesspiece, X, Y
+1, 1, black, BP_Pawn_C_0, 7, 4
+1, 0, black, BP_Pawn_C_0, 7, 4
+1, 0, white, BP_Pawn_C_1, 1, 4
+1, 0, black, BP_Pawn_C_0, 7, 4
+1, 0, white, BP_Pawn_C_1, 2, 4
+1, 0, black, BP_Pawn_C_0, 7, 4
+1, 0, white, BP_Pawn_C_1, 2, 4
+1, 0, white, BP_Pawn_C_2, 2, 5
