@@ -1,4 +1,0 @@
-Move Count, Color, Captures, Current Chesscoin, Added Chesscoin, Chesscoin from Capture, Chesscoins from Taxes, Bought Figures
-1, black, 0, 25, 5, 0, 0, 0
-2, white, 0, 10, 5, 0, 0, 2
-2, black, 0, 20, 5, 0, 0, 1
