@@ -1,7 +1,7 @@
 {
     "timerPerGameOn":       false,
     "timerPerGame":         0, 
-    "timerPerRoundOn":      false,
+    "timerPerRoundOn":      true,
     "timerPerRound":        30,
     "goldPerRound":         5,
     "maxFiguresPerPlayer":  20,
@@ -24,8 +24,8 @@
     "maxPawnsOn":           false,
     "maxPawns":             0, 
     "pawnValue":            10,
-    "pawnGold":             0,
-    "unlimitedBuys":        false,
+    "pawnGold":             5,
+    "unlimitedBuys":        true,
     "startGold":            20,
     "maxFiguresOn":         true
 }
