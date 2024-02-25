@@ -4,7 +4,7 @@
     "timerPerRoundOn":      true,
     "timerPerRound":        30,
     "goldPerRound":         5,
-    "maxFiguresPerPlayer":  5,
+    "maxFiguresPerPlayer":  10,
     "maxKingsOn":           false,
     "maxKings":             0,
     "kingValue":            40,
@@ -26,6 +26,6 @@
     "pawnValue":            10,
     "strikeValue":          150,
     "unlimitedBuys":        true,
-    "startGold":            150,
+    "startGold":            20,
     "maxFiguresOn":         true
 }
