@@ -1,5 +1,0 @@
-Move Count, Color, Captures, Current Chesscoin, Added Chesscoin, Chesscoin from Capture, Chesscoins from Taxes, Bonus Chesscoins from Timer, Bonus Chesscoins From Changing Pawn Direction, Bought Figures
-1, white, 0, 20, 5, 0, 0, 4, 0, 0
-2, black, 0, 19, 5, 0, 0, 4, 0, 1
-2, white, 0, 9, 5, 0, 0, 3, 0, 1
-3, black, 0, 17, 5, 0, 0, 4, 0, 2
